@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivathandav</h1>
-<h3 align="center">*"Crafting Solutions with Code | Passionate Developer | Innovating One Project at a Time"</h3>
+<h3 align="center">Where the magic happens... and sometimes breaks.</h3>
 
 - 📫 How to reach me **sivathandav07@gmail.com**
 
