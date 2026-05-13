@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sri+Siva+Thandavan+G;Full+Stack+Engineer+%26+Gen-AI+Builder;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python;Open+to+SDE-1+%26+AI%2FML+Roles" alt="Typing SVG" />
+  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sri+Siva+Thandavan+G;Full+Stack+Engineer+%26+Gen-AI+Builder;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Flask+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+AWS;Open+to+SDE-1+%26+AI%2FML+Roles />
 </a>
 
 <p align="center">
@@ -88,13 +88,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Sivathandav&show_icons=true&theme=transparent&hide_border=true&title_color=00FF99&text_color=a9b1d6" />
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivathandav&layout=compact&theme=transparent&hide_border=true&title_color=00FF99&text_color=a9b1d6" />
-<br clear="both">
-
----
 
 ### ⚡ Currently
 
