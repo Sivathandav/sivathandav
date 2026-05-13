@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sri+Siva+Thandavan+G;Full+Stack+Engineer+%26+Gen-AI+Builder;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Flask+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+AWS;Open+to+SDE-1+%26+AI%2FML+Roles />
+  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sri+Siva+Thandavan+G;Full+Stack+Engineer+%26+Gen-AI+Builder;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Flask+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+AWS;Open+to+SDE-1+%26+AI%2FML+Roles />
 </a>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,threejs,nodejs,mongodb,postgres,docker,aws,flask,linux&perline=6" />
+   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,vercel,supabase,fastapi,vue,mongodb,postman,postgres,mysql,docker,aws,gcp,git,linux&perline=6" />
   </a>
 </p>
 
