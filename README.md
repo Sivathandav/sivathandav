@@ -23,7 +23,7 @@
 
 ---
 
-### ⚡ Technical Stack
+###  Technical Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,19 +33,19 @@
 
 ---
 
-### 🚀 Production-Grade Projects
+###  Production-Grade Projects
 
 <table align="center" border="0" cellpadding="15">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://sri-innings.onrender.com">🏏 Sri's Innings</a></h3>
+      <h3><a href="https://sri-innings.onrender.com"> Sri's Innings</a></h3>
       <p>Cinematic 3D portfolio — Chepauk Stadium built from scratch in Three.js, no imported assets. Scroll-driven camera splines, GSAP + Lenis pipeline, Bloom post-processing.</p>
       <b>Tech:</b> <code>React</code> <code>Three.js / R3F</code> <code>GSAP</code> <code>Lenis</code>
       <br/><br/>
       <a href="https://sri-innings.onrender.com">🔗 Live Demo</a> · <a href="https://github.com/Sivathandav/sri-innings">GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sivathandav">🧠 Recruiter Brain</a></h3>
+      <h3><a href="https://github.com/Sivathandav"> Recruiter Brain</a></h3>
       <p>FAANG-level ATS optimizer with NLP scoring (TF-IDF + BM25 + cosine), structured LaTeX export, real-time feedback loops, and ChromaDB vector search.</p>
       <b>Tech:</b> <code>React</code> <code>FastAPI</code> <code>LiteLLM</code> <code>ChromaDB</code> <code>LaTeX</code>
       <br/><br/>
@@ -54,14 +54,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://troubletracker-frontend.onrender.com">🛠️ TroubleTracker</a></h3>
+      <h3><a href="https://troubletracker-frontend.onrender.com"> TroubleTracker</a></h3>
       <p>Fault-tolerant ticketing platform with JWT auth and role-based access. Structured ticket lifecycle management — reduced mean resolution time by ~30%.</p>
       <b>Tech:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Docker</code>
       <br/><br/>
       <a href="https://troubletracker-frontend.onrender.com">🔗 Live Demo</a> · <a href="https://github.com/Sivathandav/TroubleTracker">GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://restaurant-frontend-zasq.onrender.com">🍽️ TableEase</a></h3>
+      <h3><a href="https://restaurant-frontend-zasq.onrender.com"> TableEase</a></h3>
       <p>Scalable restaurant reservation system with automated conflict resolution. Optimised NoSQL indexing reduced DB latency by 35% under concurrent load.</p>
       <b>Tech:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Docker</code>
       <br/><br/>
@@ -70,14 +70,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sivathandav">🎙️ VoiceCraft</a></h3>
+      <h3><a href="https://github.com/Sivathandav"> VoiceCraft</a></h3>
       <p>Automated media dubbing pipeline — translates English video into 8+ Indian regional languages with EdgeTTS synthesis and ffmpeg audio-video sync.</p>
       <b>Tech:</b> <code>Python</code> <code>Flask</code> <code>EdgeTTS</code> <code>ffmpeg</code> <code>REST API</code>
       <br/><br/>
       <a href="https://github.com/Sivathandav">🔗 GitHub</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://stone-paper-scissors-game-rc3n.onrender.com">🎮 Project Roshambo</a></h3>
+      <h3><a href="https://stone-paper-scissors-game-rc3n.onrender.com">Project Roshambo</a></h3>
       <p>High-fidelity reimagining of Stone-Paper-Scissors as a vibe-coded interactive toy — reactive UI states, custom soundscapes, and refined GSAP animation sequences.</p>
       <b>Tech:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>GSAP</code>
       <br/><br/>
@@ -90,13 +90,13 @@
 
 
 
-### ⚡ Currently
+###  Currently
 
-🔭 &nbsp;Building production-grade **SDE & Gen-AI products**  
-🌱 &nbsp;Studying for **AWS Solutions Architect Associate**  
-👯 &nbsp;Open to **SDE-1 · Full Stack · AI/ML Engineer** roles  
-📍 &nbsp;Chennai · Bangalore · Hyderabad · Pune  
-📬 &nbsp;srisivathandavan@gmail.com
+ &nbsp;Building production-grade **SDE & Gen-AI products**  
+ &nbsp;Studying for **AWS Solutions Architect Associate**  
+ &nbsp;Open to **SDE-1 · Full Stack · AI/ML Engineer** roles  
+ &nbsp;Chennai · Bangalore · Hyderabad · Pune  
+ &nbsp;srisivathandavan@gmail.com
 
 ---
 
